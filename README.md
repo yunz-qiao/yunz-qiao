@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-First year CS student at the University of Toronto, I love [competitive programming !](https://clist.by/coder/yunz_qiao/)
+First year Computer Science student at the University of Toronto, I love [competitive programming](https://clist.by/coder/yunz_qiao/) !
 
